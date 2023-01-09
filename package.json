@@ -1,0 +1,19 @@
+{
+  "name": "sistema-eventos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-ia/sistema-eventos.git"
+  },
+  "author": "Igor Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igor-ia/sistema-eventos/issues"
+  },
+  "homepage": "https://github.com/Igor-ia/sistema-eventos#readme"
+}
